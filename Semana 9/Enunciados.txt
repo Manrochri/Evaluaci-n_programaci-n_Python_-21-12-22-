@@ -1,0 +1,7 @@
+●───── Enunciados ─────●
+(Semana 9)
+1. Realizar un algoritmo que cuenta la cantidad de letras de un palabra que el usuario ingrese.
+2. Crear un algoritmo con estructura repetitiva que cuente del 1 al 10.
+3. Imprimir la lista de compras item por item.
+4. Realizar un algoritmo que muestre las primeras 10 potencias 2.
+5. Realizar un algoritmo que muestre las potencias de los primeros 10 números naturales.

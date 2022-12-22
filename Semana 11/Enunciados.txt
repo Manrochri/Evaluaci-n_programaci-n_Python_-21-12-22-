@@ -1,0 +1,7 @@
+●───── Enunciados ─────●
+(Semana 11)
+1. Hacer un algoritmo que cuente desde el 1 hasta el número 10
+2. Realizar un algoritmo que repita lo que el usuario escriba hasta que use el comando "salir".
+3. Leer un número entero positivo desde teclado e imprimir la suma de los dígitos que lo componen.
+4. Crear un algoritmo para confirmar la asistencia de 3 personas a un evento
+5. Crear un algoritmo para obtener el promedio de notas de los alumnos de un aula 

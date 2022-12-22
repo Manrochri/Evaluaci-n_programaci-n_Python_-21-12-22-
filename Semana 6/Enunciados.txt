@@ -1,0 +1,9 @@
+●───── Enunciados ─────●
+(Semana 6)
+1. Realiza un algoritmo con estructura selectiva simple para imprimir un enunciado condicional
+2. Comprobar si un número es positivo o negativo 
+3. Comprobar si un número es divisible entre 3
+4. Realizar un pequeño juego en el que dependiendo de la llave que escoja el usuario (amarillo, rojo, azul), el 
+usuario pueda pasar por la puerta correspondiente a dicho color de llave. 
+5. Realizar un menú, en el cuál se pueda pedir café, emoliente o té. Preguntar por cada opción si 
+desea agregar, al café, leche o alfalfa al emoliente o limón al té. 
